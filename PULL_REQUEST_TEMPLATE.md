@@ -1,4 +1,4 @@
-## fixes #123 
+## fixes KILTProtocol/ticket#312
 Please include a summary of the changes provided with this pull request and which issue has been fixed. 
 Please also provide some context if necessary.
 
