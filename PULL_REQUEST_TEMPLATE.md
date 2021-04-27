@@ -15,5 +15,5 @@ If necessary provide information about dependencies (specific configuration, bra
 - [ ] I have verified that the code works
 - [ ] I have verified that the code is easy to understand
   - [ ] If not, I have left a well-balanced amount of inline comments
-- [ ] I have [left the code in a better state](https://deviq.com/boy-scout-rule/)
+- [ ] I have [left the code in a better state](https://deviq.com/principles/boy-scout-rule)
 - [ ] I have documented the changes (where applicable)
